@@ -1,5 +1,8 @@
 #include "next.h"
 
+
+
+
 char *ft_malloc(int size)
 {
     char *tmp = malloc(size);
